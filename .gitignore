@@ -1,0 +1,13 @@
+!LICENSE
+!Makefile
+!base/**
+
+*.VHD
+*.BIN
+*.o
+*.a
+*.so
+*.SO
+
+*notes/
+
